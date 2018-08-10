@@ -1,0 +1,14 @@
+{
+  "name": "makelist",
+  "version": "1.0.0",
+  "description": "makelist creates a recipe menu for the week then gives you a grocery menu out of it",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Louis Filip",
+  "license": "ISC"
+}
